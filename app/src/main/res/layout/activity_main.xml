@@ -20,6 +20,15 @@
         android:gravity="center"
         />
 
+    <TextView
+        android:id="@+id/kyle_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My name is kyle"
+        android:textSize="20sp"
+        android:gravity="center"
+        />
+
     <Button
         android:id="@+id/question_button"
         android:layout_width="match_parent"
